@@ -21,3 +21,8 @@ react native의 android 와 ios 연동을 지원하는 프로그램입니다.
 
 https://facebook.github.io/react-native/
 https://academy.nomadcoders.co/courses/216885/lectures/3368858
+
+
+리액트 네이티브 초기설정 완료  
+
+https://github.com/wkdtndgns/reactNative
