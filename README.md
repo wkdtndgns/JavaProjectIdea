@@ -26,3 +26,7 @@ https://academy.nomadcoders.co/courses/216885/lectures/3368858
 리액트 네이티브 초기설정 완료  
 
 https://github.com/wkdtndgns/reactNative
+
+일정관리 
+
+https://docs.google.com/spreadsheets/d/1rj2Q20iEjazef2XwlsxsAgBztBtTEFwzsmlWgsrZriI/edit#gid=2007496844
