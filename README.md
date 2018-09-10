@@ -30,3 +30,17 @@ https://github.com/wkdtndgns/reactNative
 일정관리 
 
 https://docs.google.com/spreadsheets/d/1rj2Q20iEjazef2XwlsxsAgBztBtTEFwzsmlWgsrZriI/edit#gid=2007496844
+
+
+성공회대 멘토링 시스템 팀 git 
+https://github.com/MotivationMentoringSeason2
+
+성공회대 멘토링 시스템 팀 front ( react.js )  git 
+https://github.com/MotivationMentoringSeason2/SM_Mentoring_Web
+
+성공회대 멘토링 시스템 팀 server ( Spring boot ) 
+https://github.com/MotivationMentoringSeason2/SM_Mentoring_Server
+
+성공회대 멘토링 시스템 팀 app (react native) 
+https://github.com/MotivationMentoringSeason2/SM_Mentoring_App
+
