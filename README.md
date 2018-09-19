@@ -27,9 +27,8 @@ https://academy.nomadcoders.co/courses/216885/lectures/3368858
 
 https://github.com/wkdtndgns/reactNative
 
-일정관리 
-
-https://docs.google.com/spreadsheets/d/1rj2Q20iEjazef2XwlsxsAgBztBtTEFwzsmlWgsrZriI/edit#gid=2007496844
+일정관리가 2개여서 하나로 합침 
+https://docs.google.com/spreadsheets/d/1rj2Q20iEjazef2XwlsxsAgBztBtTEFwzsmlWgsrZriI/edit#gid=1298277730
 
 
 성공회대 멘토링 시스템 팀 git 
